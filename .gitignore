@@ -1,3 +1,4 @@
 *.venv
 /Legacy
 *_Example.py
+*.pdf
